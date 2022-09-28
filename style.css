@@ -3,5 +3,8 @@ body{
     background:rgb(0, 255, 255)
 }
 .capa{
-    width: 80%;
+    width: 30%;
+}
+.beneficios{
+    text-align: left;
 }
