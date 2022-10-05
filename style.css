@@ -1,10 +1,23 @@
 body{
     text-align: center;
-    background:rgb(0, 255, 255)
+    background:#a2b3ae34
 }
 .capa{
     width: 30%;
 }
 .beneficios{
+    background-color: #8bb6ac;
     text-align: left;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 25px;
+    margin-right: 200px;
+}
+li{
+    padding: 20px;
+}
+.foto-beneficios{
+    width: 30%;
 }
